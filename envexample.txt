@@ -1,0 +1,41 @@
+# Network Configuration
+PRIVATE_KEY=your_private_key_here
+INFURA_PROJECT_ID=your_infura_project_id_here
+ALCHEMY_API_KEY=your_alchemy_api_key_here
+
+# Contract Addresses (will be populated after deployment)
+CONTRIBUTORS_CONTRACT_ADDRESS=
+VALIDATORS_CONTRACT_ADDRESS=
+ANALYZER_CONTRACT_ADDRESS=
+EAS_CONTRACT_ADDRESS=
+SCHEMA_REGISTRY_ADDRESS=
+
+# Attestation Configuration
+SCHEMA_UID=your_schema_uid_here
+RECIPIENT_ADDRESS=
+EXPIRATION_TIME=0
+REVOCABLE=true
+
+# Content Analysis
+CONTENT_HASH=
+CONTENT_TYPE=
+ANALYSIS_RESULT=
+
+# Validator Configuration
+VALIDATOR1_ADDRESS=
+VALIDATOR2_ADDRESS=
+VALIDATOR3_ADDRESS=
+
+# Reward Configuration
+REWARD_AMOUNT=1000000000000000000
+REWARD_TOKEN_ADDRESS=
+
+# IPFS Configuration (if used in future)
+PINATA_API_KEY=
+PINATA_SECRET_KEY=
+
+# Network URLs
+ETHEREUM_MAINNET_URL=https://mainnet.infura.io/v3/${INFURA_PROJECT_ID}
+ETHEREUM_SEPOLIA_URL=https://sepolia.infura.io/v3/${INFURA_PROJECT_ID}
+POLYGON_MAINNET_URL=https://polygon-mainnet.infura.io/v3/${INFURA_PROJECT_ID}
+POLYGON_MUMBAI_URL=https://polygon-mumbai.infura.io/v3/${INFURA_PROJECT_ID}
