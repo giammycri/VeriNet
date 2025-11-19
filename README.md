@@ -147,5 +147,24 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 SOFTWARE.
 
 
-## Contributing
+## Citation
+
+If you use this repository, its code, or any part of the proposed framework in your research or production systems, please cite the following paper:
+
+> **Coppolino, L., Cristiano, G. M., D'Antonio, S., Giglio, J., Mazzeo, G., Romano, L. (2025).**  
+> *A Blockchain Solution for Decentralized Content Verification and its Application to Deepfake Detection and Fintech Credit Scoring.*  
+> Blockchain: Research and Applications, 100406. Elsevier.
+
+You can cite it using the following BibTeX entry:
+
+```bibtex
+@article{coppolino2025blockchain,
+  title={A Blockchain Solution for Decentralized Content Verification and its Application to Deepfake Detection and Fintech Credit Scoring},
+  author={Coppolino, Luigi and Cristiano, Giovanni Maria and D'Antonio, Salvatore and Giglio, Jonah and Mazzeo, Giovanni and Romano, Luigi},
+  journal={Blockchain: Research and Applications},
+  pages={100406},
+  year={2025},
+  publisher={Elsevier}
+}
+
 
